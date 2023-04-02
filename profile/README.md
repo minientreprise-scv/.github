@@ -8,5 +8,6 @@ Minientreprise Sacré Coeur Vercel
 Commandez, apprennez, et regardez pousser vos plantes grace à Une E-plante
 
 ### Liens
-- [Site](https://minientreprise.sacrecoeurvercel.com/)
+- [Site](https://planteqr.eu.org/)
 - [Sacré Coeur Vercel](https://www.sacrecoeurvercel.com/)
+- [Instagram](https://instagram.com/minientreprise.sacrecoeur25)
